@@ -1,7 +1,7 @@
 ![Design and Development](https://github.com/RajDevX/RajDevX/blob/main/profile.jpeg)
 
-# Adrian Twarog
-I'm Adrian from Australia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general. 
+# Rajesh
+I'm Rajesh, a game modder and website designer with expertise in WordPress, SQL, and PHP. Currently learning C++, I enjoy creating websites and enhancing games with mods. My goal is to grow as a developer and explore new technologies.
 
 ## Skills and Experience
 * 💻 C++ learner
