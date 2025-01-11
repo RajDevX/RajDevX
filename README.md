@@ -5,7 +5,7 @@ I'm Rajesh, a game modder and website designer with experience in WordPress, SQL
 
 ## Skills and Experience
 * 💻 C++ learner
-* 📱 website knowledge Php and SQL
+* 📱 website knowledge Php and MySQL
 * 💻 HTML, CSS, 
 
 ## Examples of Work
