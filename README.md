@@ -5,9 +5,10 @@ I'm Rajesh, a game modder and website designer with experience in WordPress, SQL
 
 ## Skills and Experience
 * 💻 C++ learner
-* 📱 website knowledge Php and MySQL
+* 📱 Website knowledge Php and MySQL
 * 💻 HTML, CSS,
-* started MERN stack 
+* Started MERN stack
+* Basic game modding 
 
 ## Examples of Work
 <img src="https://github.com/RajDevX/RajDevX/blob/main/ezgif-4-e7dffd47c7.gif" width="513" height = "513">
