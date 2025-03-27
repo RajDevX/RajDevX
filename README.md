@@ -7,8 +7,8 @@ I'm Rajesh, a game modder and website designer with experience in MERN Stack,Wor
 * 💻 C++ learner
 * 📱 Website knowledge Php and MySQL
 * 💻 HTML, CSS,
-* Started MERN stack
-* Basic game modding 
+* Started MERN stack.
+* Basic game modding.
 
 ## Examples of Work
 <img src="https://github.com/RajDevX/RajDevX/blob/main/ezgif-4-e7dffd47c7.gif" width="513" height = "513">
